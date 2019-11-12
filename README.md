@@ -1,6 +1,7 @@
 # DecisiveStrikeTimer
 
-This is a super simple timer which gives an audio cue when the Decisive Strike runs out (60 seconds).  
+This is a super simple timer which gives an audio cue when the Decisive Strike runs out in Dead By Daylight (60 seconds).  
+More information on Decisive Strike here : https://deadbydaylight.gamepedia.com/Decisive_Strike  
 
 ## Install  
 
